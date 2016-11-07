@@ -14,6 +14,7 @@ public class E1 {
    public void e1() {
       System.out.println("initial E1");
        System.out.println("modif E1 par E2");
+       System.out.println("modif E1 par E1");
    }
    
 }
